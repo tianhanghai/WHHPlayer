@@ -1,0 +1,3 @@
+[submodule "WHHVideo"]
+	path = WHHVideo
+	url = https://github.com/tianhanghai/WHHVideo.git
